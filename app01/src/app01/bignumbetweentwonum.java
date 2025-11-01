@@ -9,6 +9,7 @@ public class bignumbetweentwonum {
 		double y = sc.nextDouble();
 		double com = ( w + y - Math.abs(w-y) )/2;
 		System.out.println("Smallestest number is : "+ com);
+		System.out.println("hello");
 		
 	}
 
